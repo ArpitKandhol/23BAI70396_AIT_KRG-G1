@@ -1,0 +1,184 @@
+﻿Diagnose log at 2025-10-30T05:14:20Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.6.1+786ab03440ddc82e807a97c0e540f5247e44cec6
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26100)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\arpit
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=NOVAPOD
+GIT_TRACE2_PARENT_SID=d1ab58d0-ad9e-4eec-96de-f41d813b4ae6
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\arpit\OneDrive
+ChocolateyLastPathUpdate=133606993196560993
+WT_PROFILE_ID={61c54bbd-c2c6-5271-96e7-009a87ff44bf}
+TMP=C:\Users\arpit\AppData\Local\Temp
+HOME=C:\Users\arpit
+PROCESSOR_REVISION=9a03
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+TEMP=C:\Users\arpit\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\arpit\AppData\Local
+MSYSTEM=MINGW64
+TERM=xterm-256color
+IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.1\bin;
+COLORTERM=truecolor
+windir=C:\WINDOWS
+USERDOMAIN=NOVAPOD
+ProgramFiles(x86)=C:\Program Files (x86)
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\arpit\bin;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Gpg4win\..\GnuPG\bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Users\arpit\AppData\Local\Microsoft\WindowsApps;C:\MinGW\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.1\bin;C:\Users\arpit\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Program Files\Git\cmd;C:\Users\arpit\AppData\Local\Microsoft\WindowsApps;C:\MinGW\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.1\bin;;C:\Users\arpit\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe
+PROCESSOR_LEVEL=6
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+TMPDIR=C:\Users\arpit\AppData\Local\Temp
+PSModulePath=C:\Users\arpit\OneDrive\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\PowerShell\Modules\
+PUBLIC=C:\Users\Public
+NUMBER_OF_PROCESSORS=16
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+WT_SESSION=ddd2a48d-383e-45a4-a039-7345a725640a
+WSLENV=WT_SESSION:WT_PROFILE_ID:
+IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAzXWrbjSJFECavkIxK2f2FwQAAAACAAAAAAAQZgAAAAEAACAAAADXhejQB3hN8b2+7QT9aSJDgb5KrjwQz827ZPd1QLBB8gAAAAAOgAAAAAIAACAAAABjZ13aFwFfdwy2pmCOR0EoqEJkhsAdWSRu4foA00+P0GAAAACrjx53AmLwDBrCQrlm6nBeMl1OlgoZRtgMXgkiPvwqDcIRF9NjbRSyOLjJEwKCWi/u2+bw6BA2R3nyK6CUzNyCn61yjQssR5Xojp3HEefNLS4f48l5iEh/BFnzg/8n5XNAAAAAhWxl2VHd7rQyRwMV84oOo9aGm6mYJPG7dngefIPnBqMORML98VrWy6WSO67UaSKWCnwSgOGLsvNyizRBWdCJZQ==
+PLINK_PROTOCOL=ssh
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+ChocolateyInstall=C:\ProgramData\chocolatey
+ProgramW6432=C:\Program Files
+SESSIONNAME=Console
+LC_CTYPE=C.UTF-8
+CommonProgramW6432=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+LOGONSERVER=\\NOVAPOD
+USERPROFILE=C:\Users\arpit
+SystemRoot=C:\WINDOWS
+USERDOMAIN_ROAMINGPROFILE=NOVAPOD
+APPDATA=C:\Users\arpit\AppData\Roaming
+HOMEDRIVE=C:
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+USERNAME=arpit
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+SystemDrive=C:
+PT8HOME=C:\Program Files\Cisco Packet Tracer 8.2.2
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\arpit\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\arpit\AppData\Local\Temp\9426461ea1ada1ffb31f7370'... OK
+Reading from temporary file 'C:\Users\arpit\AppData\Local\Temp\9426461ea1ada1ffb31f7370'... OK
+Deleting temporary file 'C:\Users\arpit\AppData\Local\Temp\9426461ea1ada1ffb31f7370'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\arpit
+UserDataDirectoryPath: C:\Users\arpit\.gcm
+GetCurrentDirectory(): C:\Users\arpit\Downloads\counter
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:50119/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.51.2.windows.1'
+Locating current repository...Git repository at 'C:/Users/arpit/Downloads/counter/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=schannel
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/arpit/.gitconfig	core.editor=vim
+file:C:/Users/arpit/.gitconfig	user.name=ArpitKandhol
+file:C:/Users/arpit/.gitconfig	user.email=arpikandhol10@gmail.com
+file:C:/Users/arpit/.gitconfig	credential.helper=manager
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/ArpitKandhol/23BAI70396_AIT_KRG-G1.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\arpit\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\arpit\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
